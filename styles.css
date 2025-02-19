@@ -1,0 +1,87 @@
+
+
+.main{
+    border: 3px solid black;
+    margin: 20vh 35vw;
+    background-color: rgb(217, 247, 247);
+    height: 60vh;
+    width: 30vw;
+    position: relative;
+}
+
+.inside{
+    border: 1px solid black;
+    height: 48vh;
+    width: 20vw;
+    background-color: rgb(233, 216, 216);
+    top: 6vh;
+    left:5vw;
+    position: absolute;
+    border-radius: 10px;
+}
+
+img{
+    height:200px;
+    border-radius: 50px;
+    display: block;
+    margin:20px auto;
+}
+
+p, h1{
+    text-align: center;
+    margin: 0;
+}
+
+h1{
+    margin-top: 15px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.first-para{
+    margin-top: 40px;
+}
+
+.first-prop{
+    border: 2px solid black;
+    height: 1vh;
+    width: 4vw;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: -10px;
+    border-radius: 10px;
+    background-color: beige;
+    font-size: x-small;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.second-prop{
+    border: 2px solid black;
+    height: 1vh;
+    width: 4vw;
+    position: absolute;
+    margin-left: 120px;
+    margin-top: -10px;
+    border-radius: 10px;
+    background-color: beige;
+    font-size: x-small;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.third-prop{
+    border: 2px solid black;
+    height: 1vh;
+    width: 4vw;
+    position: absolute;
+    margin-left: 200px;
+    margin-top: -10px;
+    border-radius: 10px;
+    background-color: beige;
+    font-size: x-small;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
